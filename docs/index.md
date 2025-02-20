@@ -8,6 +8,8 @@ My name is Tram Ha.
 
 |----|----|
 |School|Year|
+|ABC|BCD|
+|EFG|GHD|
 |----|----|
 
 > [!IMPORTANT]
